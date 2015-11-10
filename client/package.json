@@ -1,0 +1,13 @@
+{
+  "name": "poster-client»,
+  "version": «0.0.1»,
+  "description": "Poster platform client»,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "poster"
+  ],
+  "author": "andrew.radetsky",
+  "license": "ISC"
+}
